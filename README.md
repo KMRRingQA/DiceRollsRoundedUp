@@ -14,5 +14,5 @@ So, for a d6:
 average roll  =  (4 + 4 + 4 + 4 + 5 + 6)/6 = 27/6 = 4.5
 
 ![Analytical Proof](https://i.imgur.com/SqBLzLY.png)
-
+![Analytical Proof2](https://i.imgur.com/OObs6iM.png)
 ![Monte Carlo Proof](https://i.imgur.com/CiNdlMs.png)
