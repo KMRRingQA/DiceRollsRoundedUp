@@ -6,11 +6,11 @@ A little program to back up my analytical solution to a situation where any even
 So, for a d6:
 
 roll ->  result
-1    ->  4
-2    ->  4
-3    ->  4
-4    ->  4
-5    ->  5
+1    ->  4,
+2    ->  4,
+3    ->  4,
+4    ->  4,
+5    ->  5,
 6    ->  6
 average roll  =  (4 + 4 + 4 + 4 + 5 + 6)/6 = 27/6 = 4.5
 
